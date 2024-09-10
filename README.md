@@ -9,4 +9,4 @@ So far I have learned about:
 -> Ordered and Unordered lists
 -> Links and Images
 
-And I have used this knowledege to complete this project.
+Which will be utilized in this project.
