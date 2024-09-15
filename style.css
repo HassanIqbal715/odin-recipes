@@ -1,18 +1,28 @@
 h1 {
     text-align: center;
     font-family:'Times New Roman', Times, serif;
-    background-color: rgb(224, 135, 150);
+    background-color: #8be2e7;
     font-size: 40px;
+    width: 300px;
+    box-sizing: border-box;
+    margin: 16px auto;
+    padding: 8px 0;
+    border: 5px, solid, #aeaeae26;
+    font-weight: 800;
 }
 
 .list, li, a, p {
-    background-color: pink;
+    background-color: rgb(163, 231, 255);
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 25px;
+    margin: 16px auto;
+    box-sizing: border-box;
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
 
 * {
-    background-color: rgb(153, 65, 80);
+    background-color: #d3fafc;
 }
 
 img {
